@@ -31,7 +31,7 @@ Give your new repository a name (mandatory) and an optional description. Here, y
 
 After creating the new repository, GitHub will show a message indicating the original template repository:
 
-![Repository generated from original](https://github.com/NM-TAFE/python-simple-project-structure/blob/master/images/04-generated-from-message)
+![Repository generated from original](https://github.com/NM-TAFE/python-simple-project-structure/blob/master/images/04-generated-from-message.png)
 
 ## Important
 
