@@ -25,6 +25,10 @@ After clicking this button, GitHub will indicate that you're creating a new repo
 
 ![Start repo with same files and folders](https://github.com/NM-TAFE/python-simple-project-structure/blob/master/images/02-github-same-files-and-folders.png)
 
+Give your new repository a name (mandatory) and an optional description. Here, you can also choose whether you want the repository to be private or public and whether or not to include all branches: 
+
+![Finalise creating a new repository](https://github.com/NM-TAFE/python-simple-project-structure/blob/master/images/03-finalise-new-repo.png)
+
 ## Important
 
 Make sure to update this README with information about your own project!
