@@ -17,6 +17,14 @@ should be part of the project.
     + README.md
 ```
 
+You can create a new repository using this template by clicking 'Use this template': 
+
+![Use this template button in GitHub](https://github.com/NM-TAFE/python-simple-project-structure/blob/master/images/01-github-use-template.png)
+
+After clicking this button, GitHub will indicate that you're creating a new repository with the same files and folders as the original:
+
+![Start repo with same files and folders](https://github.com/NM-TAFE/python-simple-project-structure/blob/master/images/02-github-same-files-and-folders.png)
+
 ## Important
 
 Make sure to update this README with information about your own project!
