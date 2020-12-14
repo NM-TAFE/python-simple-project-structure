@@ -17,3 +17,8 @@ should be part of the project.
     + README.md
 ```
 
+## Important
+
+Make sure to update this README with information about your own project!
+
+You may also want to delete the `images` directory!
